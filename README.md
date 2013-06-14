@@ -2,21 +2,21 @@
 
 ##  Who are you, and what do you do?
 
-![Insync](/insync.jpg)
+![Insync](https://raw.github.com/marksteve/use/master/insync.jpg)
 
 I'm Mark Steve Samson, and I'm a web developer at
 [Insync](https://www.insynchq.com).
 
 ## What hardware do you use?
 
-![MacBook Pro](/mbp.jpg)
+![MacBook Pro](https://raw.github.com/marksteve/use/mbp.jpg)
 
 I was given a 2010 MBP when I first started in Insync. For gaming, I was a
 desktop guy before, but last December 2012 I decided to switch to a more mobile
 machine. Now I do my open source stuff with my MBP and real work and gaming
 with a Lenovo Y500 SLI.
 
-![Lenovo Y500 SLI](/y500.jpg)
+![Lenovo Y500 SLI](https://raw.github.com/marksteve/use/y500.jpg)
 
 The Y500 has 2x GT650m and a beefy i7 processor. I
 replaced its boot drive with a micro SSD (I can no longer imagine working on a
