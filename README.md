@@ -2,15 +2,23 @@
 
 ##  Who are you, and what do you do?
 
+![Insync](insync.jpg)
+
 I'm Mark Steve Samson, and I'm a web developer at
 [Insync](https://www.insynchq.com).
 
 ## What hardware do you use?
 
+![MacBook Pro](mbp.jpg)
+
 I was given a 2010 MBP when I first started in Insync. For gaming, I was a
 desktop guy before, but last December 2012 I decided to switch to a more mobile
 machine. Now I do my open source stuff with my MBP and real work and gaming
-with a Lenovo Y500 SLI. The Y500 has 2x GT650m and a beefy i7 processor. I
+with a Lenovo Y500 SLI.
+
+![Lenovo Y500 SLI](y500.jpg)
+
+The Y500 has 2x GT650m and a beefy i7 processor. I
 replaced its boot drive with a micro SSD (I can no longer imagine working on a
 machine without an SSD) and turned the old one to a data drive. Performance-wise
 it's a beast, but it still weighs a lot and is bigger than what I want it to be.
