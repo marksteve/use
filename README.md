@@ -38,7 +38,7 @@ external drives and an iPhone.
 
 ## What would be your dream setup?
 
-Near future: I like what they did with the Razor Blade. It will be the trend
+Near future: I like what they did with the Razer Blade. It will be the trend
 for the next generation laptops so I'm pretty excited about that. I can't wait
 for machines as small as Airs being able to run my Steam games.
 
