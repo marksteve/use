@@ -1,13 +1,13 @@
 # Mark Steve Samson
 
-##  Who are you, and what do you do?
+##  About
 
 ![Insync](https://raw.github.com/marksteve/use/master/insync.jpg)
 
 I'm Mark Steve Samson, and I'm a web developer at
 [Insync](https://www.insynchq.com).
 
-## What hardware do you use?
+## Hardware
 
 ![MacBook Pro](https://raw.github.com/marksteve/use/master/mbp.jpg)
 
@@ -25,7 +25,7 @@ it's a beast, but it still weighs a lot and is bigger than what I want it to be.
 I also have a PS3 I hardly use anymore, lots of controller pads, lots of
 external drives and an iPhone.
 
-## And what software?
+## Software
 
 * Sublime Text/vim for text editing
 * Git/Mercurial for version control
@@ -44,7 +44,7 @@ external drives and an iPhone.
 * Linode/Digital Ocean
 * Steam for gaming
 
-## What would be your dream setup?
+## Dream Setup
 
 Near future: I like what they did with the Razer Blade. It will be the trend
 for the next generation laptops so I'm pretty excited about that. I can't wait
