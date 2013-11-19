@@ -17,7 +17,7 @@ machine to play my Steam games with. It was a Lenovo Y500 SLI which served
 me well for almost a year. These days, my main machine is a MSI GE40 upgraded
 with SSD and memory upgrades.
 
-![MSI GE40](https://i.cloudup.com/S6hbGfeDJV.jpg)
+![MSI GE40](https://i.cloudup.com/S44IFKOdqi.jpg)
 
 I also have a PS3 I hardly use anymore, lots of controller pads, lots of
 external drives and an iPhone.
