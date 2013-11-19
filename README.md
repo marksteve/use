@@ -11,11 +11,11 @@ I'm Mark Steve Samson, and I'm a web developer at
 
 ![MacBook Pro](https://rawgithub.com/marksteve/use/master/mbp.jpg)
 
-I was given a 2010 MBP when I first started in Insync. For gaming, I was a
-desktop guy before, but last December 2012 I decided to switch to a more mobile
-machine to play my Steam games with. It was a Lenovo Y500 SLI which served
-me well for almost a year. These days, my main machine is a MSI GE40
-with SSD and memory upgrades.
+I was given a 2010 MBP when I first started in Insync. It was my main
+computer for about 2 years. I also had a desktop PC where I played my 
+games with. But last December 2012, I decided to switch to a more mobile
+gaming machine. It was a Lenovo Y500 SLI which served me well for almost
+a year. These days, my main machine is a MSI GE40 with SSD and memory upgrades.
 
 ![MSI GE40](https://i.cloudup.com/S44IFKOdqi.jpg)
 
